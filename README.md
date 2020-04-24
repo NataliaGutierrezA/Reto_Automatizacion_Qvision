@@ -1,2 +1,2 @@
-# Reto_Automatizacion_Qvision
+# Reto de Automatizacion
 Proyecto base de la pruebas de Screenplay.
