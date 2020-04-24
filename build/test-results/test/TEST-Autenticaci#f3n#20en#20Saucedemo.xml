@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Autenticación en Saucedemo" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-04-24T17:45:54" hostname="GS-0004" time="26.198">
+<testsuite name="Autenticación en Saucedemo" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-04-24T23:13:34" hostname="GS-0004" time="38.33">
   <properties/>
-  <testcase name="Autenticacion exitosa en Saucedemo." classname="Autenticación en Saucedemo" time="16.157"/>
-  <testcase name="Autenticacion fallida  en Saucedemo." classname="Autenticación en Saucedemo" time="10.034"/>
+  <testcase name="Autenticacion exitosa en Saucedemo." classname="Autenticación en Saucedemo" time="24.894"/>
+  <testcase name="Autenticacion fallida  en Saucedemo." classname="Autenticación en Saucedemo" time="13.427"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[abr 24, 2020 12:45:55 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+  <system-err><![CDATA[abr 24, 2020 6:13:35 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-Starting ChromeDriver 2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9) on port 42272
+Starting ChromeDriver 2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9) on port 40201
 Only local connections are allowed.
-[1587750359.873][WARNING]: Timed out connecting to Chrome, retrying...
-abr 24, 2020 12:46:01 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1587770022.175][WARNING]: Timed out connecting to Chrome, retrying...
+abr 24, 2020 6:13:44 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: OSS
 [Test worker] INFO net.serenitybdd.core.Serenity - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
@@ -21,10 +21,10 @@ INFORMACIÓN: Detected dialect: OSS
 
 TEST PASSED: Autenticacion exitosa en Saucedemo.
 ----------------------------------------------------------------------------
-abr 24, 2020 12:46:10 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+abr 24, 2020 6:13:59 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-[1587750374.009][WARNING]: Timed out connecting to Chrome, retrying...
-abr 24, 2020 12:46:16 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1587770043.581][WARNING]: Timed out connecting to Chrome, retrying...
+abr 24, 2020 6:14:05 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: OSS
 [Test worker] INFO net.serenitybdd.core.Serenity - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Autenticación en Saucedemo" skipped="0" tests="2" time="39.65" timestamp="2020-04-24 06:13:33"><testcase name="Autenticacion exitosa en Saucedemo."/><testcase name="Autenticacion fallida  en Saucedemo."/></testsuite>
